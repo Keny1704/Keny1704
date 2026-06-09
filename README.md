@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Actualmente estoy aprendiendo python 🐍<br>🎯 Metas: Convertirme en un programador senior especializado en UI/UX 3D, Desarrollo Web y de Software<br>🎲 Dato curioso: Soy estudiante de Pre-Grado en la Universidad de Ciencias Informáticas, y dedico todo mi tiempo al estudio y al trabajo y formación como programador profesional</p>
+<p align="left">📚 Actualmente estoy aprendiendo python 🐍<br>🎯 Metas: Convertirme en un programador senior especializado en UX/UI, Desarrollo Web y de Software<br>🎲 Dato curioso: Soy estudiante de Pre-Grado en la Universidad de Ciencias Informáticas, y dedico todo mi tiempo al estudio y al trabajo y formación como programador profesional</p>
 
 ###
 
