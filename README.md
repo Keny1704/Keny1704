@@ -1,22 +1,12 @@
 <h1 align="left">Hola👋 Qué tal?</h1>
 
-###
-
 <p align="left">Mi nombre es Keny y soy Desarrollador Full-Stack 💻</p>
-
-###
 
 <h2 align="left">Acerca de mí</h2>
 
-###
-
 <p align="left">📚 Actualmente estoy aprendiendo python 🐍<br>🎯 Metas: Convertirme en un programador senior especializado en UX/UI, Desarrollo Web y de Software<br>🎲 Dato curioso: Soy estudiante de Pre-Grado en la Universidad de Ciencias Informáticas, y dedico todo mi tiempo al estudio y al trabajo y formación como programador profesional</p>
 
-###
-
 <h2 align="left">Programo con:</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -37,9 +27,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Keny1704/Keny1704/snake-output/snake.svg" alt="Snake animation" />
-
-###
